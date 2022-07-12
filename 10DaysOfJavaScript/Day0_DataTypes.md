@@ -40,7 +40,7 @@ is the best place to learn and practice coding!
 ```
 
 
-##Sample Output 0
+## Sample Output 0
 
 ```
 16
