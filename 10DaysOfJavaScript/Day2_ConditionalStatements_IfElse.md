@@ -37,7 +37,7 @@ The function must return the value of **grade** (i.e., the letter grade) that Ju
 ```
 
 
-##Sample Output 0
+## Sample Output 0
 
 ```
 D
@@ -53,49 +53,32 @@ Because **score = 11**, it satisfies the condition **\(10 < score <= 15\)** (whi
 
 ---
 
-## Solution2
+## Solution
 
 ```javascript
+
 function getGrade(score) {
     let grade;
     // Write your code here
-
-    if (score <= 5) {
-        return 'F';
-    } else if (score <= 10) {
-        return 'E';
-    } else if (score <= 15) {
-        return 'D';
-    } else if (score <= 20) {
-        return 'C';
-    } else if (score <= 25) {
-        return 'B';
-    } else {
-        return 'A';
+    if(score>25 && score<=30){
+        grade="A";
     }
-
+    else if(score>20 && score<=25){
+        grade="B";
+    }
+    else if(score>15 && score<=20){
+        grade="C";
+    }
+    else if(score>10 && score<=15){
+        grade="D";
+    }
+    else if(score>5 && score<=10){
+        grade="E";
+    }
+    else if(score>0 && score<=5){
+        grade="F";
+    }
     return grade;
 }
-
-```
-
-## Solution2
-
-```javascript
-function getGrade(score) {
-    let grade;
-    // Write your code here
-    grade = score <= 5 ? 'F'
-        : score <= 10 ? 'E'
-            : score <= 15 ? 'D'
-                : score <= 20 ? 'C'
-                    : score <= 25 ? 'B'
-                        : score <= 30 ? 'A' : '';
-
-    return grade;
-}
-
-
-```
 
 ---
