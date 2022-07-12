@@ -16,7 +16,7 @@ The function must return the value of n!.
 ```
 
 
-##Sample Output 0
+## Sample Output 0
 
 ```
 24
