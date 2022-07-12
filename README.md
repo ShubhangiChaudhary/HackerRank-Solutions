@@ -1,6 +1,6 @@
 # HackerRank-Solutions
 
-**<a href="HackerRank-Solutions/10DaysOfJavaScript/">10 Days Of JavaScript</a>**
+**<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/tree/main/10DaysOfJavaScript">10 Days Of JavaScript</a>**
 
 - *<a href="">Day 0: Data Types</a>*
 - *<a href="">Day 0: Hello, World!</a>*
