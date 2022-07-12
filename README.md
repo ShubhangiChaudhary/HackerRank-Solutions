@@ -2,4 +2,4 @@
 
 <a href="">10 Days Of JavaScript</a>
 
-- **Day 0: Data Types**
+- **<a href="">Day 0: Data Types</a>**
