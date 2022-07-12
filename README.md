@@ -7,4 +7,4 @@
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day1_ArithmeticOperators.md">Day 1: Arithmetic Operators</a>*
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day1_Functions.md">Day 1: Functions</a>*
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day1_LetAndConst.md">Day 1: Let and Const</a>*
-- *<a href="">Day 2: Conditional Statements: If Else</a>*
+- *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day2_ConditionalStatements_IfElse.md">Day 2: Conditional Statements: If Else</a>*
