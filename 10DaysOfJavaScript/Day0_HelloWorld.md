@@ -40,7 +40,7 @@ Welcome to 10 Days of JavaScript!
 ```
 
 
-##Sample Output 0
+## Sample Output 0
 
 ```
 Hello, World!
