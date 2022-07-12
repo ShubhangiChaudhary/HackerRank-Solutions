@@ -64,15 +64,14 @@ We then print **area** as our first line of output and **perimeter** as our seco
 
 function main() {
     // Write your code here. Read input using 'readLine()' and print output using 'console.log()'.
-    let r = parseFloat(readLine());
-    const PI = Math.PI;
-    
+    const PI= Math.PI; 
+    let r = parseFloat(readLine()); 
     // Print the area of the circle:
-    console.log(PI * r * r);
-
+    let area = PI * r * r;
+    console.log(area);
     // Print the perimeter of the circle:
-    console.log(PI * 2 * r);
-
+    let perimeter = 2 * PI * r;
+    console.log(perimeter);
     try {    
         // Attempt to redefine the value of constant variable PI
         PI = 0;
@@ -82,7 +81,3 @@ function main() {
         console.error("You correctly declared 'PI' as a constant.");
     }
 }
-
-```
-
----
