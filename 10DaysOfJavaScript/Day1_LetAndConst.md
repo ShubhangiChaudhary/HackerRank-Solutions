@@ -37,7 +37,7 @@ Print the following two lines:
 ```
 
 
-##Sample Output 0
+## Sample Output 0
 
 ```
 21.237166338267002
