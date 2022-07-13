@@ -104,11 +104,24 @@ function main() {
 ```
 
 // Complete the solve function below.
-function main() {
-    const N = parseInt(readLine(), 10);
-    let result = (N % 2 === 1 || (N % 2 === 0 && N >= 6 && N <= 20)) ? 'Weird' : 'Not Weird';
+int main()
+{
+    int N = parse_int(ltrim(rtrim(readline())));
+    if(N%2 == 0){
+        if(N>=2 && N<=5){
+            printf("Not Weird");
+        }
+        else if(N>=6 && N<=20){
+            printf("Weird");
+        }
+        else if(N>20){
+            printf("Not Weird");
+        }
+    }else{
+        printf("Weird");
+    }
 
-    console.log(result);
+    return 0;
 }
 
 ```
