@@ -10,7 +10,7 @@
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day2_ConditionalStatements_IfElse.md">Day 2: Conditional Statements: If Else</a>*
 
 
-**<a href="">30 Days Of Code</a>**
+**<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/tree/main/30DaysOfCode">30 Days Of Code</a>**
 
 - *<a href="">Day 0: Hello, World.</a>*
 - *<a href="">Day 0: Hello, World.</a>*
