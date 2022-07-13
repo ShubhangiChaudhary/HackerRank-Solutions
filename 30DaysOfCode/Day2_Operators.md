@@ -89,6 +89,27 @@ function solve(meal_cost, tip_percent, tax_percent) {
 ## Solution 2
 ### C
 
+```
+/*
+ * Complete the 'solve' function below.
+ *
+ * The function accepts following parameters:
+ *  1. DOUBLE meal_cost
+ *  2. INTEGER tip_percent
+ *  3. INTEGER tax_percent
+ */
+
+void solve(double meal_cost, int tip_percent, int tax_percent) {
+    double tip;
+    double tax;
+    int total_cost;
+    
+    tip= meal_cost * tip_percent/100;
+    tax= meal_cost * tax_percent/100;
+    total_cost= (int)round(meal_cost + tip + tax);
+    
+    printf("%d",total_cost);
+}
 
 
 ---
