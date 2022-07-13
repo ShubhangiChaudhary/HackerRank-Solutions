@@ -49,8 +49,9 @@ On the first line, we print the string literal Hello, World.. On the second line
 ---
 
 ## Solution 1
+### JavaScript
 
-```javascript
+```
 
 function processData(inputString) {
     // This line of code prints the first line of output
@@ -65,8 +66,9 @@ function processData(inputString) {
 ---
 
 ## Solution 2
+### C
 
-```C
+```
 
 #include <stdio.h>
 #include <string.h>
