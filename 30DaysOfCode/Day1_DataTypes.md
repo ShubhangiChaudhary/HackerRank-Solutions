@@ -88,22 +88,22 @@ When we concatenate HackerRank with is the best place to learn and practice codi
 ``` C
 
 // Declare second integer, double, and String variables.
-let first, second, third;
-
-// Read and save an integer, double, and String to your variables.
-first = parseInt(readLine());
-second = parseFloat(readLine());
-third = readLine();
-
-// Print the sum of both integer variables on a new line.
-console.log(i + first);
-
-// Print the sum of the double variables on a new line.
-console.log((d + second).toFixed(1));
-
-// Concatenate and print the String variables on a new line
-// The 's' variable above should be printed first.
-console.log(s + third);
+    int i2;
+    double d2;
+    char s2[100];
+    // Read and save an integer, double, and String to your variables.
+    scanf("%d", &i2);
+    scanf("%lf", &d2);
+    scanf("%*[\n] %[^\n]", s2);
+    // Print the sum of both integer variables on a new line.
+    printf("%d\n", i+i2);
+    // Print the sum of the double variables on a new line.
+    printf("%.01lf\n", d+d2);
+    // Concatenate and print the String variables on a new line
+    // The 's' variable above should be printed first.
+    printf("%s%s", s,s2);
+    return 0;
+}
 ```
 
 ---
