@@ -14,6 +14,6 @@
 
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/30DaysOfCode/Day0_HelloWorld.md">Day 0: Hello, World.</a>*
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/30DaysOfCode/Day1_DataTypes.md">Day 1: Data Types.</a>*
-- *<a href="">Day 2: Operators</a>*
+- *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/30DaysOfCode/Day2_Operators.md">Day 2: Operators</a>*
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/30DaysOfCode/Day3_IntroToConditionalStatements.md">Day 3: Intro To Conditional Statements</a>*
 - *<a href="">Day 4: Class vs Instance</a>*
