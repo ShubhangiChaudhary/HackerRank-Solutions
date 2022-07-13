@@ -29,7 +29,7 @@ n x i = result.
 ```
 
 
-##Sample Output
+## Sample Output
 
 ```
 2 x 1 = 2
@@ -69,6 +69,16 @@ function main() {
 ### C
 
 ```
+int main()
+{
+    int n = parse_int(ltrim(rtrim(readline())));
+    int i;
+    for(i=1; i<=10; i++){
+        printf("%d x %d = %d\n", n,i,n*i);
+    }
+
+    return 0;
+}
 
 
 
