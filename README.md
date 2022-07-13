@@ -12,6 +12,6 @@
 
 **<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/tree/main/30DaysOfCode">30 Days Of Code</a>**
 
-- *<a href="">Day 0: Hello, World.</a>*
+- *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/30DaysOfCode/Day0_HelloWorld.md">Day 0: Hello, World.</a>*
 - *<a href="">Day 0: Hello, World.</a>*
 - *<a href="">Day 0: Hello, World.</a>*
