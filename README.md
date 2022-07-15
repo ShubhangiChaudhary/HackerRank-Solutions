@@ -21,4 +21,4 @@
 - *<a href="">Day 4: Class vs Instance</a>*
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/30DaysOfCode/Day5_Loops..md">Day 5: Loops</a>*
 - *<a href="">Day 6: Let's Review</a>*
-- *<a href="">Day 7: Arrays</a>*
+
