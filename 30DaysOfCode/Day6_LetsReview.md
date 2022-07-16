@@ -95,22 +95,35 @@ function processData(input) {
 ## Solution 2
 ### C
 ```
-function processData(input) {
-    //Enter your code here
-    input.split("\n").reduce((target, item, index) => {
-        if (index && Number.isNaN(+item)) {
-            let result = item.split('').reduce((target, text, index) => {
-                target[+(index % 2 !== 0)] += text;
+int main() {
 
-                return target;
-            }, new Array(2).fill('')).join(' ');
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
+    int n;
+    char s[100];
+    scanf("%d", &n);
+    for(int i=0; i<n; i++){
+        scanf("%s", s);
+        myFunction(s);
+    }
+    return 0;
+}
 
-            console.log(result);
+void myFunction(char s[]){
+    for(int i=0; i<strlen(s); i++){
+        if(i%2==0){
+            printf("%c", s[i]);
         }
+    }
+    
+    printf(" ");
+    for(int i=0; i<strlen(s); i++){
+        if(i%2 !=0){
+            printf("%c", s[i]);
+        }
+    }
+    printf("\n");
+}
 
-        return target;
-    }, '');
-} 
 
 ```
 
