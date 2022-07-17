@@ -63,7 +63,10 @@ From steps **2** and **3**, we can say **factorial(2) = 2 X 1 = 2**; then when w
 ### JavaScript
 
 ```
-
+function factorial(n){
+ //Write your code here
+ return n < 2 ? 1 : n * factorial(n-1);
+ }
 
 
 
