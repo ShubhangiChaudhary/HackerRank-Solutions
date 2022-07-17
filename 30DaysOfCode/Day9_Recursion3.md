@@ -67,8 +67,6 @@ function factorial(n){
  //Write your code here
  return n < 2 ? 1 : n * factorial(n-1);
  }
-
-
-
+ 
 ```
 
