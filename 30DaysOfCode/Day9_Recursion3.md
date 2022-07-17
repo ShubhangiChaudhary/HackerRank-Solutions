@@ -70,3 +70,20 @@ function factorial(n){
  
 ```
 
+## Solution 2
+### C
+
+```
+/*
+ * Complete the 'factorial' function below.
+ *
+ * The function is expected to return an INTEGER.
+ * The function accepts INTEGER n as parameter.
+ */
+
+int factorial(int n) {
+   return n < 2 ? 1 : n* factorial(n-1);
+}
+ 
+```
+
