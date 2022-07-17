@@ -85,8 +85,6 @@ Harry is one of the keys in our dictionary, so we print harry=12299933.
 
 ## Solution 2
 
-```javascript
-
 
 ```
 
