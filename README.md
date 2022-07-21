@@ -9,6 +9,7 @@
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day1_LetAndConst.md">Day 1: Let and Const</a>*
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day2_ConditionalStatements_IfElse.md">Day 2: Conditional Statements: If Else</a>*
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day2_Loops.md">Day 2: Loops</a>*
+- *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day4_CreateARectangle.md">Day 4: Create A Rectangle</a>*
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day8_CrerateAButton.md">Day 8: Create A Button</a>*
 
 
