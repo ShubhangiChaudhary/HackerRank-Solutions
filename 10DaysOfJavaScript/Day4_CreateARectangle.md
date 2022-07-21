@@ -60,6 +60,17 @@ Given a **length** of **a = 3** and a **width** of **b = 5**, the Rectangle obje
 
 ```javascript
 
-
+/*
+ * Complete the Rectangle function
+ */
+function Rectangle(a, b) {
+    return {
+        length: a,
+        width: b,
+        perimeter: 2*(a+b),
+        area: a*b
+        
+    }
+}
 
 ---
