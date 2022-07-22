@@ -85,5 +85,17 @@ This string starts with the vowel a but ends in the vowel o.
 ## Solution
 
 ```javascript
+function regexVar() {
+    /*
+     * Declare a RegExp object variable named 're'
+     * It must match a string that starts and ends with the same vowel (i.e., {a, e, i, o, u})
+     */
+    
+    let re = /^([aeiou]).+\1$/;
+    /*
+     * Do not remove the return statement
+     */
+    return re;
+}
 
 ```
