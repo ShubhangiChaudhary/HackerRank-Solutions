@@ -10,7 +10,7 @@
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day2_ConditionalStatements_IfElse.md">Day 2: Conditional Statements: If Else</a>*
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day2_Loops.md">Day 2: Loops</a>*
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day3_Arrays.md">Day 3: Arrays</a>*
-- *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day3_TryCatchFinally.md>Day 3: Try, Catch and Finally</a>*
+- *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day3_TryCatchFinally.md">Day 3: Try, Catch and Finally</a>*
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day4_CreateARectangle.md">Day 4: Create A Rectangle</a>*
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day7_RegularExpression1.md">Day 7: Regular Expression 1</a>*
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day8_CrerateAButton.md">Day 8: Create A Button</a>*
