@@ -15,6 +15,7 @@
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day4_CreateARectangle.md">Day 4: Create A Rectangle Object</a>*
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day4_CountObjects.md">Day 4: Count Objects</a>*
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day4_Classes.md">Day 4: Classes</a>*
+- *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day5_Inheritence.md">Day 5: Inheritence</a>*
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day7_RegularExpression1.md">Day 7: Regular Expression 1</a>*
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day8_CrerateAButton.md">Day 8: Create A Button</a>*
 
