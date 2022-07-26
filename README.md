@@ -34,4 +34,4 @@
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/30DaysOfCode/Day10_BinaryNumbers.md">Day 10: Binary Numbers</a>*
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/30DaysOfCode/Day11_2DArrays.md">Day 11: 2D Arrays</a>*
 - *<a href="">Day 12: </a>*
-- *<a href="">Day 13: </a>*
+
