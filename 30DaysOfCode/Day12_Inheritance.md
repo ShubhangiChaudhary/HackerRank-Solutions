@@ -72,6 +72,51 @@ This student had **2** scores to average: **100** and **80**. The student's aver
 ## Solution 
 
 ```javascript
-
+class Student extends Person {
+    /*	
+    *   Class Constructor
+    *   
+    *   @param firstName - A string denoting the Person's first name.
+    *   @param lastName - A string denoting the Person's last name.
+    *   @param id - An integer denoting the Person's ID number.
+    *   @param scores - An array of integers denoting the Person's test scores.
+    */
+    // Write your constructor here
+    constructor(firstName, lastName, idNumber, testScores){
+    super(firstName, lastName, idNumber);
+    this.testScores = testScores;
+    }
+    /*	
+    *   Method Name: calculate
+    *   @return A character denoting the grade.
+    */
+    // Write your method here
+    calculate(){
+        var sum = this.testScores.reduce((acc, num) => {
+      acc += num;
+      return acc;
+    });
+    var avg = sum / this.testScores.length;
+    
+    if (avg >= 90) {
+      return "O";
+    }
+    else if (avg >= 80) {
+      return "E";
+    }
+    else if (avg >= 70) {
+      return "A";
+    }
+    else if (avg >= 55) {
+      return "P";
+    }
+    else if (avg >= 40) {
+      return "D";
+    }
+    else {
+      return "T";
+    }
+  }
+}
 
 ```
