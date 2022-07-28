@@ -21,6 +21,7 @@
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day6_BitwiseOperators.md">Day 6: Bitwise Operator</a>*
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day6_JavaScriptDates.md">Day 6: JavaScript Dates</a>*
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day7_RegularExpression1.md">Day 7: Regular Expression 1</a>*
+- *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day7_RegularExpression2.md">Day 7: Regular Expression 2</a>*
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/10DaysOfJavaScript/Day8_CrerateAButton.md">Day 8: Create A Button</a>*
 
 
