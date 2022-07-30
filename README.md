@@ -44,5 +44,6 @@
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/30DaysOfCode/Day14_Scope.md">Day 14: Scope</a>*
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/30DaysOfCode/Day15_LinkedList.md">Day 15: Linked List</a>*
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/30DaysOfCode/Day16_Exceptions-StringtoInteger.md">Day 16: Exceptions- String To Integer</a>*
+- *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/30DaysOfCode/Day17_MoreExceptions.md">Day 17: More Exceptions</a>*
 
 
