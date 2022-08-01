@@ -51,7 +51,21 @@ The integer **6** is evenly divisible by **1**, **2**, **3**, and **6**. Our div
 ## Solution
 ### C++
 
-```javascript
-
+```
+class Calculator : public AdvancedArithmetic {
+public:
+    int divisorSum(int n) {
+        int s=0, i=1;
+        while(i<=n){
+          if(n%i==0){
+              s=s+i;
+              i++;
+          }  else{
+              i++;
+          }
+        }
+        return s;
+    }
+};
 
 ```
