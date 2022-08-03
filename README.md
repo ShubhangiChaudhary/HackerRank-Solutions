@@ -48,4 +48,4 @@
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/30DaysOfCode/Day18_QueuesAndStacks.md">Day 18: Queues And Stacks</a>*
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/30DaysOfCode/Day19_Interfaces.md">Day 19: Interfaces</a>*
 - *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/30DaysOfCode/Day20_Sorting.md">Day 20: Sorting</a>*
-- *<a href="">Day 21: Generics</a>*
+- *<a href="https://github.com/ShubhangiChaudhary/HackerRank-Solutions/blob/main/30DaysOfCode/Day21_Generics.md">Day 21: Generics</a>*
