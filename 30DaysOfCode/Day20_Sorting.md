@@ -119,6 +119,44 @@ At this point the array is sorted and we print the necessary **3** lines of outp
 ### C++
 
 ```
+int main()
+{
+    string n_temp;
+    getline(cin, n_temp);
+
+    int n = stoi(ltrim(rtrim(n_temp)));
+
+    string a_temp_temp;
+    getline(cin, a_temp_temp);
+
+    vector<string> a_temp = split(rtrim(a_temp_temp));
+
+    vector<int> a(n);
+
+    for (int i = 0; i < n; i++) {
+        int a_item = stoi(a_temp[i]);
+
+        a[i] = a_item;
+    }
+
+    // Write your code here
+    int swap=0;
+    for(int i=0;i<n;i++){
+        for(int j=0;j<n-i-1;j++){
+            if(a[j]>a[j+1]){
+                int temp = a[j];
+                a[j]=a[j+1];
+                a[j+1]=temp;
+                swap++;
+            }
+        }
+    }
+    cout<<"Array is sorted in "<<swap<<" swaps."<<endl;
+    cout<<"First Element: "<<a[0]<<endl;
+    cout<<"Last Element: "<<a[n-1]<<endl;
+
+    return 0;
+}
 
 ```
 
