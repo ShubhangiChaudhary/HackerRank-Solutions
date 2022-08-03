@@ -115,81 +115,10 @@ At this point the array is sorted and we print the necessary **3** lines of outp
 
 ---
 
-## Solution 1
-
-```javascript
-function main() {
-    var n = parseInt(readLine());
-    a = readLine().split(' ');
-    a = a.map(Number);
-    // Write Your Code Here
-
-    let numberOfSwaps = 0;
-
-    const bubbleSort = (array) => {
-        let arr = array;
-        let length = arr.length;
-        let i, j, temp;
-
-        for (i = 0; i < length - 1; i++) {
-            for (j = 0; j < length - 1 - i; j++) {
-                if (arr[j] > arr[j + 1]) {
-                    temp = arr[j + 1];
-                    arr[j + 1] = arr[j];
-                    arr[j] = temp;
-                    numberOfSwaps++;
-                }
-            }
-        }
-
-        return arr;
-    }
-
-    let sortArray = bubbleSort(a);
-
-    console.log(`Array is sorted in ${numberOfSwaps} swaps.`)
-    console.log(`First Element: ${sortArray[0]}`)
-    console.log(`Last Element: ${sortArray[sortArray.length-1]}`)
-}
+## Solution 
+### C++
 
 ```
-
-## Solution 2
-
-```javascript
-function main() {
-    var n = parseInt(readLine());
-    a = readLine().split(' ');
-    a = a.map(Number);
-    // Write Your Code Here
-    let numberOfSwaps = 0;
-
-    const bubbleSort = (values) => {
-        let swapped;
-
-        do {
-            swapped = false;
-            
-            for (let i = 0, { length } = values; i < length; i++) {
-                if (values[i] > values[i + 1]) {
-                    let tmp = values[i];
-                    
-                    values[i] = values[i + 1];
-                    values[i + 1] = tmp;
-                    
-                    swapped = true;
-                    numberOfSwaps++;
-                }
-            }
-        } while (swapped);
-
-        return values;
-    };
-
-    let result = bubbleSort(a);
-
-    console.log(`Array is sorted in ${numberOfSwaps} swaps.\nFirst Element: ${result[0]}\nLast Element: ${result[n - 1]}`);
-}
 
 ```
 
