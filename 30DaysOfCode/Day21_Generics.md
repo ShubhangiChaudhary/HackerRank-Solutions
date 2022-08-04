@@ -32,6 +32,7 @@ Your printArray function should print each element of its generic array paramete
 ---
 
 ## Solution
+### C++
 
 ```
 /**
